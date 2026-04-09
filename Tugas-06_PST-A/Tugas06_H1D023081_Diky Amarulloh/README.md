@@ -105,4 +105,4 @@ delay(2);
 * kecepatan diatur 2 ms
 
 Dokumentasi
-![Simulasi percobaan](tugas06.GIF)
+![Tugas](Tugas06.GIF)
